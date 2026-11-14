@@ -1,0 +1,23 @@
+
+# Python 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# API 密钥
+.env
+.env.*
+!.env.example
+
+# 原始学习资料
+data/
+
+# FAISS 向量知识库
+vectorstore/
+
+# 测试资料
+Personal_Knowledge_RAG_2PDF_1TXT/
+Personal_Knowledge_RAG_Test_Docs/
+/1练习.py
